@@ -1,0 +1,6 @@
+C:\Users\abchauhan\source\repos\AArea\AArea\bin\Debug\AArea.exe.config
+C:\Users\abchauhan\source\repos\AArea\AArea\bin\Debug\AArea.exe
+C:\Users\abchauhan\source\repos\AArea\AArea\bin\Debug\AArea.pdb
+C:\Users\abchauhan\source\repos\AArea\AArea\obj\Debug\AArea.csproj.CoreCompileInputs.cache
+C:\Users\abchauhan\source\repos\AArea\AArea\obj\Debug\AArea.exe
+C:\Users\abchauhan\source\repos\AArea\AArea\obj\Debug\AArea.pdb
